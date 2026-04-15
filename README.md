@@ -28,6 +28,7 @@
 ```bash
 sudo systemctl status memcached
 ```
+![memcached](memcached)
 ---
 
 ## Задание 3. Удаление по TTL в Memcached
