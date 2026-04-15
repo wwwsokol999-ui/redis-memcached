@@ -51,7 +51,7 @@ printf "get key1 key2\r\n" | nc localhost 11211
 
 Таким образом я убедился, что механизм TTL в memcached работает корректно.
 
-key.png
+![key](key.png)
 ---
 
 ## Задание 4. Запись данных в Redis
